@@ -1,0 +1,2 @@
+# IntroToML
+In this repository, we will be exploring and focusing on the IBM Watson Data Platform to dive into working with the Machine Learning pipeline. This will include performing activities from data cleansing using the IBM Data Refinery service to creating a simple machine learning model using the IBM Watson Machine Learning service and creating an interactive dashboard using the Cognos Dashboard Embedded service to visualize data.
