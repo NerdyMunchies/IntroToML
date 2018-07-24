@@ -2,9 +2,9 @@
 In this repository, we will be exploring and focusing on the IBM Watson Data Platform to dive into working with the Machine Learning pipeline. This will include performing activities from data cleansing using the IBM Data Refinery service to creating a simple machine learning model using the IBM Watson Machine Learning service and creating an interactive dashboard using the Cognos Dashboard Embedded service to visualize data.
 
 This repository used the following resource, which can be explored to look at each part in more depth: 
-https://developer.ibm.com/code/labs/Data-Science-Data-Refinery
-https://developer.ibm.com/code/howtos/ml-in-minutes
-https://developer.ibm.com/code/howtos/create-interactive-dashboards-on-watson-studio
+- Lab on Data Refinery: https://developer.ibm.com/code/labs/Data-Science-Data-Refinery
+- HowTo on creating interactive dashboards: https://developer.ibm.com/code/howtos/create-interactive-dashboards-on-watson-studio
+- HowTo on deploying a machine learning model: https://developer.ibm.com/code/howtos/ml-in-minutes
 
 ## Sign up on IBM Cloud
 An IBM Cloud account - A lite account, which is a free of charge account that doesn’t expire, can be created through going to [IBM Cloud](http://ibm.biz/sheraaml). Make sure to set the region to US South.
@@ -284,9 +284,12 @@ Bear in mind that this is not the best approach to handle this. This is just pro
 
 ![image](images/55.png)
 
-- You can test out the model by going to **Test** tab and filling in the values of the features (a json object can also be used)
+- You can test out the model by going to **Test** tab and filling in the values of the features (a json object can also be used). **test.json** contains a sample that can be used for testing
 
 ![image](images/56.png)
 
+And that's it!!
 
-And this marks the end of the exercise
+
+## Additional Resources
+- [Patterns on Data Science](https://developer.ibm.com/code/technologies/data-science/)
